@@ -128,7 +128,7 @@ if (self !== top) {
                     <span class="icon-bar"></span>
                   </button>
                   <a class="navbar-brand" href="/pages/html/ga.vyond.com/yourvideos" title="Vyond">
-                      <img alt="Vyond" src="https://d3v4eglovri8yt.cloudfront.net/static/add8e214e09bd155/go/img/vyond/vyond_logo_legacy.png">
+                      <img alt="Vyond" src="https://fanimation36.github.io/fanimation2.github.io/static/55910a7cd204c37c/go/img/vyond/vyond_logo_legacy.png">
                   </a>
             </div>
 
@@ -900,5 +900,6 @@ $(function() {
     </style>
 </body>
 </html>
+
 
 
