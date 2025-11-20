@@ -582,7 +582,7 @@ function loadLegacyPreview() {
         createPreviewPlayer("playerdiv", {
             height: 360,
             width: 640,
-            player_url: "${params.flashvars.animationPath}player2.swf",
+            player_url: "${params.flashvars.animationPath}player.swf",
             quality: "high",
             wmode: "transparent",
         }, {
@@ -955,4 +955,5 @@ playback timings (ms):
 -->`
 		);
 	return true;
+
 }
