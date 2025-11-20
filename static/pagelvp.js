@@ -285,7 +285,7 @@ if (self !== top) {
                     <span class="icon-bar"></span>
                   </button>
                   <a class="navbar-brand" href="http://localhost:4343/pages/html/ga.vyond.com/yourvideos" title="Vyond">
-                      <img alt="Vyond" src="https://grapzmen-goanimation.github.io/josephanimate2021/static/55910a7cd204c37c/go/img/vyond/vyond_logo_legacy.png">
+                      <img alt="Vyond" src="https://web.archive.org/web/20210328224445if_/https://d3v4eglovri8yt.cloudfront.net/static/add8e214e09bd155/go/img/vyond/vyond_logo_legacy.png">
                   </a>
             </div>
             <div class="collapse navbar-collapse navbar-ex1-collapse">
@@ -453,7 +453,7 @@ jQuery('#player-overlay-dismiss').click(function() {
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="modal-header">
-                        <button class="close" type="button" data-dismiss="modal" aria-hidden="true">�</button>
+                        <button class="close" type="button" data-dismiss="modal" aria-hidden="true">×</button>
                         <h3 class="modal-title">Your video was autosaved</h3>
                     </div>
                     <div class="modal-body">
@@ -637,7 +637,7 @@ jQuery('#player-overlay-dismiss').click(function() {
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="modal-header">
-                        <button class="close" type="button" data-dismiss="modal" aria-hidden="true">�</button>
+                        <button class="close" type="button" data-dismiss="modal" aria-hidden="true">×</button>
                         <h3 class="modal-title">Your video was autosaved</h3>
                     </div>
                     <div class="modal-body">
@@ -728,7 +728,7 @@ function logAmplitudeEvent(eventName, eventProperties) {
 
 <footer class="site-footer">
     <div class="container">
-        Vyond™ is a trademark of GoAnimate. Inc. ©2019 GoAnimate. Inc. <a href="https://www.vyond.com/terms">Terms of Service</a> | <a href="https://www.vyond.com/privacy">Privacy Policy</a> | <a href="https://www.vyond.com/cookies">Cookies Policy</a>
+        Vyondâ¢ is a trademark of GoAnimate. Inc. Â©2019 GoAnimate. Inc. <a href="https://www.vyond.com/terms">Terms of Service</a> | <a href="https://www.vyond.com/privacy">Privacy Policy</a> | <a href="https://www.vyond.com/cookies">Cookies Policy</a>
     </div>
 
 </footer>
@@ -746,3 +746,4 @@ function logAmplitudeEvent(eventName, eventProperties) {
 		);
 	return true;
 }
+
