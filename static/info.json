@@ -9,7 +9,7 @@
 		},
 		"/$": {
 			"headers": {
-				"Location": "/pages/html/ga.vyond.com/login"
+				"Location": "/pages/html/ga.vyond.com/yourvideos"
 			},
 			"statusCode": 302,
 			"content": ""
@@ -83,3 +83,4 @@
 		"/cc": "<script>function characterSaved(){window.location='pages/html/list.html'}</script>"
 	}
 }
+
